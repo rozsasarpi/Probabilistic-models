@@ -8,12 +8,14 @@ __Motivation:__
 The scattered data in the literature often make it hard and timeconsuming to select appropriate probabilistic models in engineering analysis.
 This repo is intended to collect these probabilistic models and to provide an open platform to extend them.
 
+
 __Organization of data:__
 * Resistance
 	* model uncertainty
 * Action, effect
 	* model uncertainty
 * Geometry
+
 
 __Contributing to the database:__
 * Select the appropriate class, e.g. resistance, action, for the new data
