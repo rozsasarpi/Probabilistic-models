@@ -4,6 +4,7 @@ Collection of probabilistic models, e.g. random variables, random processes, of 
 The data are based on experiments, observations, and expert judgement. Its main focus is civil engineering and structural reliability.
 
 __Motivation:__
+
 The scattered data in the literature often make it hard and timeconsuming to select appropriate probabilistic models in engineering analysis.
 This repo is intended to collect these probabilistic models and to provide an open platform to extend them.
 
