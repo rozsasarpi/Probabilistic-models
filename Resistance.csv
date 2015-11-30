@@ -1,5 +1,5 @@
 Property;Type;Distribution;Mean;Coefficient of variation;Standard deviation;Notes;Reference
 Resistance (without differentiation based on material or failure mode);RV;Lognormal;NA;NA;NA;NA;CEN (2002)
-Structural steel, yield stress;RV;Lognormal;NA;0.07;NA;NA;JCSS (2000)
-Structural steel, yield stress;RV;Lognormal;NA;0.05;NA;NA;Sorensen (2002)
-Structural steel, ultimate strength;RV;Lognormal;NA;0.04;NA;NA;JCSS (2000)
+Structural steel yield stress;RV;Lognormal;NA;0.07;NA;NA;JCSS (2000)
+Structural steel yield stress;RV;Lognormal;NA;0.05;NA;NA;Sorensen (2002)
+Structural steel ultimate strength;RV;Lognormal;NA;0.04;NA;NA;JCSS (2000)
