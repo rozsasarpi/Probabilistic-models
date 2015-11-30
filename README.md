@@ -1,6 +1,6 @@
 # Probabilistic models
 
-Collection of probabilistic models, e.g. random variables, random processes, of various physical properties.
+Collection of probabilistic models, e.g. random variables, random processes, for various physical properties.
 The data are based on experiments, observations, and expert judgement. Its main focus is civil engineering and structural reliability.
 
 __Motivation:__
