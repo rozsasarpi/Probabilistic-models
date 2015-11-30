@@ -1,7 +1,8 @@
 # Probabilistic models
 
 Collection of probabilistic models, e.g. random variables, random processes, for various physical properties.
-The data are based on experiments, observations, and expert judgement. Its main focus is civil engineering and structural reliability.
+The data are based on experiments, observations, and expert judgement. The main focus is on civil engineering and on structural reliability.
+Feel free to fork this repo and to commit your additions!
 
 __Motivation:__
 
