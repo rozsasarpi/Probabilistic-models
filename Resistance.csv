@@ -1,0 +1,25 @@
+Property;Type;Distribution;Mean;Coefficient of variation;Standard deviation;Notes;Reference
+Resistance (without differentiation based on material or failure mode);RV;Lognormal;;;;;
+Structural steel, yield stress;RV;Lognormal;;0.07;;;JCSS (2000)
+Structural steel, yield stress;RV;Lognormal;;0.05;;;S?rensen (2002)
+Structural steel, ultimate strength;RV;Lognormal;;0.04;;;JCSS (2000)
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+References;;;;;;;
+JCSS. 2000. JCSS Probabilistic Model Code. JCSS Probabilistic Model Code. Part III - Resistance Models. Joint Committee on Structural Safety.;;;;;;;
+S?rensen, J. D. 2002. Calibration of Partial Safety Factors in Danish Structural Codes. JCSS Workshop on Reliability Based Code Calibration, at Zürich, Switzerland.;;;;;;;
